@@ -7,8 +7,9 @@ function decimalToBinary(num) {
 		nums=nums/2;
 	}
 	// return ans;
-	console.log(ans);
-  
+	// console.log(ans);
+	const ans2 = Number(str);
+  return ans2;
 }
 
 window.decimalToBinary = decimalToBinary;
