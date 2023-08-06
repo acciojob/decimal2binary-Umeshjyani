@@ -6,7 +6,8 @@ function decimalToBinary(num) {
 		ans=r+ans;
 		nums=nums/2;
 	}
-	return ans;
+	// return ans;
+	console.log(ans);
   
 }
 
